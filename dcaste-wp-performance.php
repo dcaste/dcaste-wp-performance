@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Tactic Center - Performance
- * Author: Tactic-Center
- * Author URI: http://tactic-center.com
- * Description: Mejoras en el performance de Wordpress.
+ * Plugin Name: Dax Castellón - Performance
+ * Author: Dax Castellón
+ * Author URI: https://github.com/dcaste/
+ * Description: A collection of WordPress performance improvements.
  * Version: 1.0.0
 
  */
